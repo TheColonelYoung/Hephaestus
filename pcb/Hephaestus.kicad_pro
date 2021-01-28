@@ -290,7 +290,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unresolved_variable": "error",
@@ -309,19 +309,19 @@
     "classes": [
       {
         "bus_width": 12.0,
-        "clearance": 0.2,
-        "diff_pair_gap": 0.25,
+        "clearance": 0.199898,
+        "diff_pair_gap": 0.249936,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.199898,
         "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
+        "microvia_diameter": 0.299974,
+        "microvia_drill": 0.100076,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "track_width": 0.249936,
+        "via_diameter": 0.8001,
+        "via_drill": 0.40005,
         "wire_width": 6.0
       }
     ],
@@ -344,7 +344,7 @@
   "schematic": {
     "drawing": {
       "default_bus_thickness": 12.0,
-      "default_junction_size": 40.0,
+      "default_junction_size": 36.0,
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "default_wire_thickness": 6.0,
@@ -372,7 +372,7 @@
   },
   "sheets": [
     [
-      "34aa4004-9351-4787-a29a-fcc9c40c42df",
+      "140b6426-ac6c-4234-9721-d944633d7111",
       ""
     ]
   ],
