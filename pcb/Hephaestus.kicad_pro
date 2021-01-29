@@ -372,8 +372,12 @@
   },
   "sheets": [
     [
-      "140b6426-ac6c-4234-9721-d944633d7111",
+      "84dedebe-5369-4455-9cb8-bfc6bf33ec72",
       ""
+    ],
+    [
+      "7a76e8c5-72f4-4945-adcb-0da375f8139d",
+      "Stepper_motor"
     ]
   ],
   "text_variables": {}
