@@ -1,4 +1,4 @@
-19196259844681527
+19199486989453527
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -77707,6 +77707,13 @@ Amphenol_10114828-11103LF_1x03_P1.25mm_Vertical
 5
 4
 TCY_connectors
+Amphenol_10114828-11103LF_1x04_P1.25mm_Vertical
+
+
+0
+6
+5
+TCY_connectors
 Amphenol_10114830-11102LF_1x02_P1.25mm_Horizontal
 
 
@@ -77720,6 +77727,13 @@ Amphenol_10114830-11103LF_1x03_P1.25mm_Horizontal
 0
 5
 4
+TCY_connectors
+Amphenol_10114830-11103LF_1x04_P1.25mm_Horizontal
+
+
+0
+6
+5
 TCY_connectors
 CardEdge_2x15_Female_2.54mm
 
